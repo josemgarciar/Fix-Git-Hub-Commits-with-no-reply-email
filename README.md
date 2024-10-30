@@ -1,7 +1,7 @@
 # Fix-Git-Hub-Commits-with-no-reply-email
 
 ## How to use?
-1. First, you have to clone the repository that you want to change to your with ".git" extension.
+1. First, you have to clone the repository that you want to change with ".git" extension.
 > [!TIP]
 > To make that you only have to go to your git hub repository, copy the URL and put the next >script in the terminal
 > ``git clone --bare <Your repository URL>``
